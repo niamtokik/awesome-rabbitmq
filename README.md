@@ -25,9 +25,26 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Rigorous security analysis of RabbitMQ Broker with Concurrent
+Stochastic
+Games**](https://www.sciencedirect.com/science/article/abs/pii/S2542660524001021)
+
+[**Architecture of ASTHROS's Internal On-board Communications System
+using
+RabbitMQ**](https://ui.adsabs.harvard.edu/abs/2024AAS...24330125T/abstract)
+
+[**Designing Scalable Event-Driven Systems with Message-Oriented
+Architecture**](https://www.worldscientific.com/doi/abs/10.1142/9789811279539_0002)
+
+[**Application of the Minimum Interoperability
+Mechanisms**](https://riunet.upv.es/bitstream/handle/10251/203070/Ferri%20-%20%20Application%20of%20the%20Minimum%20Interoperability%20Mechanisms%20MIMS%20Prospective%20Standard%20to%20the%20....pdf?sequence=1)
+
 [**Evaluating Connectivity for RabbitMQ stream clients in front of
 Load
 Balancers**](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1830108&dswid=1504).
+
+[FUZZING PROTOCOL EFFECTIVENESS IN DATA COMMUNICATION SECURITY ON
+RABBITMQ](https://journal.itts.ac.id/index.php/cyfors/article/download/9/5)
 
 ### 2023
 
