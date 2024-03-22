@@ -7,6 +7,38 @@ An Awesome List of RabbitMQ Resources
 The tools you absolutely needs to deal with RabbitMQ in your daily
 activity.
 
+[`amqp_client`](https://github.com/jbrisbin/amqp_client):  Rebar-friendly fork of rabbitmq-erlang-client 
+
+[`rabbithub`](https://github.com/tonyg/rabbithub): Experimental RabbitMQ PubSubHubBub interface
+
+[` ansible-rabbitmq`](https://github.com/mrlesmithjr/ansible-rabbitmq): Ansible role to install/configure RabbitMQ 
+
+[`rabbitmq-email`](https://github.com/gotthardp/rabbitmq-email): SMTP Gateway Plugin for RabbitMQ
+
+[`RabbitMQ Webhooks Plugin`](https://github.com/jbrisbin/rabbitmq-webhooks)
+
+[`rabbit_common`](https://github.com/jbrisbin/rabbit_common): Rebar-friendly fork of RabbitMQ common code 
+
+[`alice`](https://github.com/auser/alice): Monitoring and REST interface to rabbitmq
+
+[`rabbitmq-lvc-plugin`](https://github.com/squaremo/rabbitmq-lvc-plugin): A plugin exchange type for RabbitMQ that acts as a last-value-cache
+
+[`rabbitmq-erlang-client-examples`](https://github.com/careo/rabbitmq-erlang-client-examples): Ports of some examples in tmm1's amqp library to use the rabbitmq erlang client. 
+
+[`rabbitmq-server-cluster`](https://github.com/dengyuankai272/rabbitmq-server-cluster): rabbitmq server cluster docker image 
+
+[`pgsql-listen-exchange`](https://github.com/gmr/pgsql-listen-exchange): RabbitMQ Exchange that publishes messages received from PostgreSQL Notifications. 
+
+[` rabbitmq-rtopic-exchange`](https://github.com/rabbitmq/rabbitmq-rtopic-exchange): RabbitMQ Reverse Topic Exchange
+
+[`rabbiter`](https://github.com/tonyg/rabbiter): Microblogging using RabbitMQ and ejabberd
+
+[`turtle`](https://github.com/jlouis/turtle): A wrapper on the RabbitMQ Erlang Client (Erlang)
+
+[`rabbitmq-xmpp`](https://github.com/tonyg/rabbitmq-xmpp): RabbitMQ XMPP gateway
+
+[`rmq_patterns`](https://github.com/videlalvaro/rmq_patterns): Implementation of several messaging patterns with RabbitMQ and AMQP 
+
 ## Tutorial
 
 Tutorials to Introduce RabbitMQ.
@@ -24,6 +56,12 @@ Books on RabbitMQ.
 Academic Publications on RabbitMQ.
 
 ### 2024
+
+[**Taxonomy and Software Architecture for Real-Time Context-Aware
+Collaborative Smart
+Environments**](https://www.sciencedirect.com/science/article/pii/S254266052400101X)
+by Adrian Bazan-Muñoz, Guadalupe Ortiz, Juan C. Augusto and Alfonso
+Garcia-de-Prado
 
 [**Rigorous security analysis of RabbitMQ Broker with Concurrent
 Stochastic
