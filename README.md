@@ -57,6 +57,13 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**CrowdKit: A Generic Programming Framework for Mobile Crowdsensing
+Applications**](https://www.computer.org/csdl/journal/tm/5555/01/10480220/1VCTEqs748U)
+
+[**Enabling privacy-aware interoperable and quality IoT data sharing
+with
+context**](https://www.sciencedirect.com/science/article/pii/S0167739X24001109)
+
 [**Taxonomy and Software Architecture for Real-Time Context-Aware
 Collaborative Smart
 Environments**](https://www.sciencedirect.com/science/article/pii/S254266052400101X)
