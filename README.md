@@ -57,6 +57,10 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Comparing Service-Oriented Architecture Frameworks for Use in
+Programmable Industrial Vehicle
+Displays**](https://www.diva-portal.org/smash/get/diva2:1849318/FULLTEXT01.pdf)
+
 [**A Microservices-Based Control Plane for Time-Sensitive
 Networking**](https://www.mdpi.com/1999-5903/16/4/120)
 
