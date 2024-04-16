@@ -57,6 +57,9 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Rest security framework for event streaming bus
+architecture**](https://link.springer.com/article/10.1007/s41870-024-01836-8)
+
 [**Comparing Service-Oriented Architecture Frameworks for Use in
 Programmable Industrial Vehicle
 Displays**](https://www.diva-portal.org/smash/get/diva2:1849318/FULLTEXT01.pdf)
