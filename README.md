@@ -57,6 +57,11 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**IMMERSIVE JAPANESE LANGUAGE LEARNING WEB APPLICATION USING SPACED
+REPETITION, ACTIVE RECALL, AND APPLICATION USING SPACED REPETITION,
+ACTIVE RECALL, AND AN ARTIFICIAL INTELLIGENT CONVERSATIONAL CHAT
+AGENT**](https://knowledge.e.southern.edu/cgi/viewcontent.cgi?article=1011&context=mscs_reports)
+
 [**Rest security framework for event streaming bus
 architecture**](https://link.springer.com/article/10.1007/s41870-024-01836-8)
 
