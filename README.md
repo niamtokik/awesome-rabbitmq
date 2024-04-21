@@ -57,6 +57,10 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Research on legacy monolith applications decomposition into
+microservice
+architecture**](https://etalpykla.vilniustech.lt/bitstream/handle/123456789/154024/J_Kazanaviciaus_disertacija.pdf?sequence=1&isAllowed=y)
+
 [**IMMERSIVE JAPANESE LANGUAGE LEARNING WEB APPLICATION USING SPACED
 REPETITION, ACTIVE RECALL, AND APPLICATION USING SPACED REPETITION,
 ACTIVE RECALL, AND AN ARTIFICIAL INTELLIGENT CONVERSATIONAL CHAT
