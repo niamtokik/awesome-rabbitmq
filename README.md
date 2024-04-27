@@ -57,6 +57,25 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Serverless Digital Mobility: A Case Study on Event-Triggered
+Passenger
+Counting**](https://ieeexplore.ieee.org/abstract/document/10503184)
+
+[**A simulation framework for distributed on-board computing for
+small-satellite
+clusters**](https://ieeexplore.ieee.org/abstract/document/10502926)
+
+[**A High-level Design for Bidirectional Data Streaming to
+High-Performance Computing Systems from External Science
+Facilities**](https://info.ornl.gov/sites/publications/Files/Pub212271.pdf)
+
+[**Are data streaming platforms ready for a mission critical
+world?**](https://d197for5662m48.cloudfront.net/documents/publicationstatus/204473/preprint_pdf/2e94477496404cdc17b9ffa5079b906f.pdf)
+
+[**Exploring the Effectiveness of AWS Lambda and Knative in a
+Serverless Web Crawler: A Comparative
+Study**](https://amslaurea.unibo.it/30888/1/pruscini_davide_tesi.pdf)
+
 [**Research on legacy monolith applications decomposition into
 microservice
 architecture**](https://etalpykla.vilniustech.lt/bitstream/handle/123456789/154024/J_Kazanaviciaus_disertacija.pdf?sequence=1&isAllowed=y)
