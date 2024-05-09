@@ -57,6 +57,13 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Performance Analysis of RESTFUL Web Services and RABBITMQ for
+Microservices based Systems on Cloud
+Environment**](https://ieeexplore.ieee.org/abstract/document/10511747)
+
+[**Building a Flexible and Resource-Light Monitoring Platform for a
+WLCG-Tier2**](https://www.epj-conferences.org/articles/epjconf/pdf/2024/05/epjconf_chep2024_07008.pdf)
+
 [**Serverless Digital Mobility: A Case Study on Event-Triggered
 Passenger
 Counting**](https://ieeexplore.ieee.org/abstract/document/10503184)
