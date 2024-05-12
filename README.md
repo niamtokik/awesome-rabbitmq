@@ -57,6 +57,13 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Decentralized Pub/Sub Architecture for Real-Time Remote Patient
+Monitoring: A Feasibility
+Study**](https://link.springer.com/chapter/10.1007/978-3-031-59080-1_4)
+
+[**Container Orchestration in Limited Availability Zones
+Domains**](http://essay.utwente.nl/98888/1/Abad%20Copovi_MA_EEMCS.pdf)
+
 [**Performance Analysis of RESTFUL Web Services and RABBITMQ for
 Microservices based Systems on Cloud
 Environment**](https://ieeexplore.ieee.org/abstract/document/10511747)
