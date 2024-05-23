@@ -57,6 +57,9 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Accelerator network monitoring system based on microservices
+architecture**](https://link.springer.com/article/10.1007/s41605-024-00466-9)
+
 [**Decentralized Pub/Sub Architecture for Real-Time Remote Patient
 Monitoring: A Feasibility
 Study**](https://link.springer.com/chapter/10.1007/978-3-031-59080-1_4)
