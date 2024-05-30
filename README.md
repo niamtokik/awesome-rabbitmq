@@ -57,6 +57,10 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**A Comparative Analysis of Message Brokers Applied in an Asynchronous
+Java-Based Application
+Server**](https://cs.pollub.pl/wp-content/uploads/2024/05/CITS24-Conference-Materials.pdf#page=60)
+
 [**Accelerator network monitoring system based on microservices
 architecture**](https://link.springer.com/article/10.1007/s41605-024-00466-9)
 
