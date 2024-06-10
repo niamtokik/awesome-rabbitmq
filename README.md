@@ -57,6 +57,10 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**A Framework for Cybersecurity Alert Distribution and Response
+Network (ADRIAN)
+**](https://www.scirp.org/journal/paperinformation?paperid=133624)
+
 [**A Comparative Analysis of Message Brokers Applied in an Asynchronous
 Java-Based Application
 Server**](https://cs.pollub.pl/wp-content/uploads/2024/05/CITS24-Conference-Materials.pdf#page=60)
