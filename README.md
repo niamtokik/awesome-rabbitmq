@@ -57,6 +57,27 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**On the Use of Message Brokers for Real-Time Monitoring
+Systems**](https://link.springer.com/chapter/10.1007/978-3-031-66635-3_12)
+
+[**Evaluation of Message Brokers for interprocess communication in a
+Microservice
+Architecture**](https://pub.fh-campuswien.ac.at/obvfcwhsacc/content/titleinfo/10215202/full.pdf)
+
+[**Toward a systematic reporting framework for Digital Twins: a
+cooperative robotics case
+study**](https://journals.sagepub.com/doi/pdf/10.1177/00375497241261406)
+
+[**Data Sharing in Multi-Stakeholder
+Servitization**](https://www.diva-portal.org/smash/get/diva2:1885520/FULLTEXT01.pdf)
+
+[**Datasink: an efficient open-source system for reliable transfers of
+observatory data and
+jobs**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13101/131013E/Datasink--an-efficient-open-source-system-for-reliable-transfers/10.1117/12.3019063.short#_=_)
+
+[**Streaming Technologies and Serialization Protocols: Empirical
+Performance Analysis**](https://arxiv.org/pdf/2407.13494)
+
 [**A Framework for Cybersecurity Alert Distribution and Response
 Network (ADRIAN)
 **](https://www.scirp.org/journal/paperinformation?paperid=133624)
