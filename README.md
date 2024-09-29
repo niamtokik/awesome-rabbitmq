@@ -57,6 +57,9 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Sandbox Code
+Runner**](https://fse.studenttheses.ub.rug.nl/34267/1/mCS2024alshakoush.pdf)
+
 [**On the Use of Message Brokers for Real-Time Monitoring
 Systems**](https://link.springer.com/chapter/10.1007/978-3-031-66635-3_12)
 
