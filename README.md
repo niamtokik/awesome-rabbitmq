@@ -57,6 +57,13 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Benchmarking Message Brokers on Kubernetes: A Case Study in how to
+Evaluate Inter-Service Communication
+Technology**](https://www.diva-portal.org/smash/get/diva2:1892790/FULLTEXT01.pdf)
+
+[**IoT Malware Detection and Mitigation in AMQP Simulated
+Environment**](https://ph01.tci-thaijo.org/index.php/ecticit/article/download/257016/172875)
+
 [**Sandbox Code
 Runner**](https://fse.studenttheses.ub.rug.nl/34267/1/mCS2024alshakoush.pdf)
 
