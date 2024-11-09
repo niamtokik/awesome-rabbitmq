@@ -57,6 +57,19 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Experimental Analysis of Optimization Techniques for Energy
+Efficiency in Distributed
+Systems**](https://opus4.kobv.de/opus4-hm/frontdoor/deliver/index/docId/573/file/Peslalz_2024_MA.pdf)
+
+[**Composable Digital Twins on Digital
+Twin as a Service Platform**](https://edkamb.github.io/files/simulation.pdf)
+
+[**An architecture for coupled digital twins with semantic
+lifting**](https://link.springer.com/article/10.1007/s10270-024-01221-w)
+
+[**Novel Architecture for Distributed Travel Data Integration and
+Service Provision Using Microservices**](https://arxiv.org/pdf/2410.24174)
+
 [**Benchmarking Message Brokers on Kubernetes: A Case Study in how to
 Evaluate Inter-Service Communication
 Technology**](https://www.diva-portal.org/smash/get/diva2:1892790/FULLTEXT01.pdf)
