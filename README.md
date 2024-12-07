@@ -57,6 +57,13 @@ Academic Publications on RabbitMQ.
 
 ### 2024
 
+[**Evaluating Message Brokers: Performance, Scalability,
+and Suitability for Distributed Applications**](https://www.researchgate.net/profile/Rahul-Goel-22/publication/386106723_Evaluating_Message_Brokers_Performance_Scalability_and_Suitability_for_Distributed_Applications/links/674dd9e7359dcb4d9d4b7df3/Evaluating-Message-Brokers-Performance-Scalability-and-Suitability-for-Distributed-Applications.pdf)
+
+[**Design of a counter-drone visualisation platform incorporating
+sensor-data
+fusion**](https://ieeexplore.ieee.org/abstract/document/10767076)
+
 [**Experimental Analysis of Optimization Techniques for Energy
 Efficiency in Distributed
 Systems**](https://opus4.kobv.de/opus4-hm/frontdoor/deliver/index/docId/573/file/Peslalz_2024_MA.pdf)
